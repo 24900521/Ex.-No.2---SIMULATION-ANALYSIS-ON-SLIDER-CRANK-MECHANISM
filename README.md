@@ -34,20 +34,16 @@
 ###  2. Draw the vector bc of length 100 mm, perpendicular to the crank CB from the configuration diagram 
 ###  3. At b, draw a projection line perpendicular to AB from the configuration diagram 
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
+![WhatsApp Image 2024-10-30 at 13 11 12_59ccaba7](https://github.com/user-attachments/assets/945756f2-5fb4-4711-b64b-efdf8964268c)
+![WhatsApp Image 2024-10-30 at 13 15 09_0fd368b7](https://github.com/user-attachments/assets/83f4c5c8-3803-4c40-8a43-3b45f9a0eb7b)
+![WhatsApp Image 2024-10-30 at 13 15 39_bcee73eb](https://github.com/user-attachments/assets/087a5169-4647-444f-9b10-432e39be0995)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/d1412f9a-dcab-4433-a9a5-b5d6d19257b9)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
 
-
-### Name:
-### Register Number: 
+### Name: Vignesh V
+### Register Number: 24900521 
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
